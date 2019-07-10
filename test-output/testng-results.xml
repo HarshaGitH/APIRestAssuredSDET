@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1842" started-at="2019-07-07T18:20:22Z" finished-at="2019-07-07T18:20:24Z">
+  <suite name="Default suite" duration-ms="1528" started-at="2019-07-10T18:46:16Z" finished-at="2019-07-10T18:46:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1842" started-at="2019-07-07T18:20:22Z" finished-at="2019-07-07T18:20:24Z">
-      <class name="PostReq.Post1">
-        <test-method status="PASS" signature="post()[pri:0, instance:PostReq.Post1@475530b9]" name="post" duration-ms="1821" started-at="2019-07-07T18:20:22Z" finished-at="2019-07-07T18:20:24Z">
+    <test name="Default test" duration-ms="1528" started-at="2019-07-10T18:46:16Z" finished-at="2019-07-10T18:46:18Z">
+      <class name="GetReq.Authetication">
+        <test-method status="PASS" signature="author()[pri:0, instance:GetReq.Authetication@d8355a8]" name="author" duration-ms="1510" started-at="2019-07-10T18:46:16Z" finished-at="2019-07-10T18:46:18Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- post -->
-      </class> <!-- PostReq.Post1 -->
+        </test-method> <!-- author -->
+      </class> <!-- GetReq.Authetication -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
