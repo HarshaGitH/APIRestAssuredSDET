@@ -23,12 +23,6 @@ public class practi {
 		int statuscode = resp.getStatusCode();
 		String succ = resp.jsonPath().get("");
 		
-		
-		
-		
-		
-		
-		
 	}
 
 }
