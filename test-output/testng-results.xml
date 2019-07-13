@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1528" started-at="2019-07-10T18:46:16Z" finished-at="2019-07-10T18:46:18Z">
+  <suite name="Default suite" duration-ms="7126" started-at="2019-07-11T14:58:41Z" finished-at="2019-07-11T14:58:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1528" started-at="2019-07-10T18:46:16Z" finished-at="2019-07-10T18:46:18Z">
-      <class name="GetReq.Authetication">
-        <test-method status="PASS" signature="author()[pri:0, instance:GetReq.Authetication@d8355a8]" name="author" duration-ms="1510" started-at="2019-07-10T18:46:16Z" finished-at="2019-07-10T18:46:18Z">
+    <test name="Default test" duration-ms="7126" started-at="2019-07-11T14:58:41Z" finished-at="2019-07-11T14:58:48Z">
+      <class name="PostReq.OnO">
+        <test-method status="PASS" signature="bearer()[pri:0, instance:PostReq.OnO@224edc67]" name="bearer" duration-ms="7044" started-at="2019-07-11T14:58:41Z" finished-at="2019-07-11T14:58:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- author -->
-      </class> <!-- GetReq.Authetication -->
+        </test-method> <!-- bearer -->
+      </class> <!-- PostReq.OnO -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

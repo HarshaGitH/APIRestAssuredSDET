@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="GetReq.Authetication">
+      <class name="PostReq.OnO">
         <methods>
-          <include name="author"/>
+          <include name="bearer"/>
         </methods>
-      </class> <!-- GetReq.Authetication -->
+      </class> <!-- PostReq.OnO -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
