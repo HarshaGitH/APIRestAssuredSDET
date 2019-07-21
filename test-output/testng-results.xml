@@ -1,139 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12126" started-at="2019-07-13T09:56:15Z" finished-at="2019-07-13T09:56:27Z">
+  <suite name="Default suite" duration-ms="8279" started-at="2019-07-18T10:41:14Z" finished-at="2019-07-18T10:41:23Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12126" started-at="2019-07-13T09:56:15Z" finished-at="2019-07-13T09:56:27Z">
-      <class name="DataDrivenTest.UsingExcel">
-        <test-method status="PASS" signature="Datapro(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.UsingExcel@46d56d67]" name="Datapro" duration-ms="5285" started-at="2019-07-13T09:56:19Z" data-provider="EmpData" finished-at="2019-07-13T09:56:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[HarshReddy]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="8279" started-at="2019-07-18T10:41:14Z" finished-at="2019-07-18T10:41:23Z">
+      <class name="PostReq.OnO">
+        <test-method status="PASS" signature="bearer()[pri:0, instance:PostReq.OnO@224edc67]" name="bearer" duration-ms="8174" started-at="2019-07-18T10:41:15Z" finished-at="2019-07-18T10:41:23Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Datapro -->
-        <test-method status="PASS" signature="Datapro(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.UsingExcel@46d56d67]" name="Datapro" duration-ms="712" started-at="2019-07-13T09:56:24Z" data-provider="EmpData" finished-at="2019-07-13T09:56:25Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[HarshReddyA]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Datapro -->
-        <test-method status="PASS" signature="Datapro(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.UsingExcel@46d56d67]" name="Datapro" duration-ms="608" started-at="2019-07-13T09:56:25Z" data-provider="EmpData" finished-at="2019-07-13T09:56:25Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[HarshReddyB]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Datapro -->
-        <test-method status="PASS" signature="Datapro(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.UsingExcel@46d56d67]" name="Datapro" duration-ms="714" started-at="2019-07-13T09:56:25Z" data-provider="EmpData" finished-at="2019-07-13T09:56:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[HarshReddyC]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Datapro -->
-        <test-method status="PASS" signature="Datapro(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.UsingExcel@46d56d67]" name="Datapro" duration-ms="813" started-at="2019-07-13T09:56:26Z" data-provider="EmpData" finished-at="2019-07-13T09:56:27Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[HarshReddyD]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Datapro -->
-        <test-method status="PASS" signature="Datapro(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.UsingExcel@46d56d67]" name="Datapro" duration-ms="614" started-at="2019-07-13T09:56:27Z" data-provider="EmpData" finished-at="2019-07-13T09:56:27Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[HarshReddyE]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Datapro -->
-      </class> <!-- DataDrivenTest.UsingExcel -->
+        </test-method> <!-- bearer -->
+      </class> <!-- PostReq.OnO -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
